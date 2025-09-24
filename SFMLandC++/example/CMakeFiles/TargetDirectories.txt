@@ -1,0 +1,3 @@
+/home/mdimitris/Documents/Game Dev/SFMLandC++/example/CMakeFiles/sfml-app.dir
+/home/mdimitris/Documents/Game Dev/SFMLandC++/example/CMakeFiles/edit_cache.dir
+/home/mdimitris/Documents/Game Dev/SFMLandC++/example/CMakeFiles/rebuild_cache.dir

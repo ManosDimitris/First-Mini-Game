@@ -1,5 +1,5 @@
 #include <iostream>
-#include"game.hpp"
+#include"Game/game.hpp"
 
 using namespace std;
 
@@ -17,7 +17,8 @@ int main()
         //Update the Game
         game.Update();
         
-        
+            
+
         //Render the game
         game.Render();
     }
